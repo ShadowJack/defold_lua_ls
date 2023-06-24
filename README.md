@@ -4,4 +4,4 @@ All type definitions are taken from the [defold-vscode-guide](https://github.com
 
 
 ## Installation
-See [README for LLS-Addons](https://github.com/LuaLS/LLS-Addons#readme).
+See [README for installing LLS-Addons](https://github.com/LuaLS/lua-language-server/wiki/Addons#installing-addons).
